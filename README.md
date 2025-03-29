@@ -66,7 +66,12 @@ After looking at the data and visualizations, here are some key observations:
 There are several ways I could extend this analysis:  
 - **Predictive Modeling** – Using machine learning to predict future sales.  
 - **Demographic Insights** – Analyzing which groups buy more and why.(See powerbi file)  
-- **Advanced Power BI Dashboards** – Adding more interactive elements to visualize patterns effectively(See powerbi file).  
+- **Advanced Power BI Dashboards** – Adding more interactive elements to visualize patterns effectively(See powerbi file).
+
+  ## POWERBI DASHBOARD
+  ![cd insights 1](https://github.com/user-attachments/assets/7a1db6c7-30c2-4b27-b313-965a1e2c45bd)
+
+![cd insights 2](https://github.com/user-attachments/assets/b3e7d803-ac5b-4ff4-aac4-0dea3de5b60f)
 
 ---
 
